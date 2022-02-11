@@ -4,9 +4,8 @@ body{
 h1{
     color: rgb(255, 0, 0);
 }
-.broke{
-    font-style:aligrant;
-}
+
+
 #col{
     position: relative;
     background-color: red;
@@ -29,6 +28,4 @@ h1{
 #button:focus{
     background-color: springgreen;
 }
-@media screen (min-width:750px) { body{
-    background-color: green;}
-}
+
